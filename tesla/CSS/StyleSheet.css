@@ -1,0 +1,44 @@
+﻿body {
+    padding:0px;
+    margin:0px;
+    font-family:Verdana;
+}
+#main{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+#top {
+    height: 100px;
+    background-color: #e31937;
+}
+#logo{
+    float:left;
+    padding-left:1%;
+}
+#menu{
+    float:left;
+    padding-left:15%;
+    padding-top:45px;
+    color:#FFF;
+}
+.menu{
+    float:left;
+    padding-left:15%;
+}
+.menu a:link, .menu a:visited{
+    color:#FFF;
+    font-size:13px;
+    text-decoration:none;
+}
+.menu a:hover{
+    text-decoration:underline;
+}
+#indhold{
+    height:700px;
+}
+#bund{
+    height:85px;
+    background-color:#e31937;
+    color:#FFF;
+}
